@@ -13,13 +13,16 @@ body {
 }
 
 #title {
+    text-align: center;
     font-family: fantasy;
     font-style: normal;
     font-weight: 700;
-    font-size: 400%;
+    font-size: 350%;
     color: rgb(4, 92, 4);
     letter-spacing: .5em;
     margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #title1 {
@@ -101,6 +104,7 @@ hr {
     font-weight: 400;
     font-size: 100%;
     color: #1F252F;
+    margin-top: 50px;
 }
 
 #last-last {
@@ -133,5 +137,5 @@ hr {
     border-radius: 8px;
     color: #1F252F;
     padding: 5px;
-    font-size: 120%;
+    font-size: 100%;
 }
