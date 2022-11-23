@@ -26,7 +26,7 @@ body {
     font-family: Verdana;
     font-style: normal;
     font-weight: 700;
-    font-size: 350%;
+    font-size: 300%;
     color: #1F252F;
 }
 
@@ -43,7 +43,7 @@ hr {
     font-family: Verdana;
     font-style: normal;
     font-weight: 400;
-    font-size: 300%; 
+    font-size: 250%; 
     color: #1F252F;
 }
 
@@ -57,7 +57,7 @@ hr {
     font-family: 'Shanti';
     font-style: normal;
     font-weight: 400;
-    font-size: 150%;
+    font-size: 100%;
     letter-spacing: 0.02em;
     text-transform: uppercase;   
     color: #FFFFFF;
